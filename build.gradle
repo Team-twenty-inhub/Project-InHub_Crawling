@@ -43,10 +43,14 @@ dependencies {
 
     // jasypt
     implementation 'com.github.ulisesbocchio:jasypt-spring-boot-starter:3.0.4'
+
+    // h2
+    runtimeOnly 'com.h2database:h2' // h2-in memory
 }
 
 tasks.named('test') {
     useJUnitPlatform()
+    systemProperty "jasypt.encryptor.password", project.getProperty("jasypt.encryptor.password")
 }
 
 jar{
