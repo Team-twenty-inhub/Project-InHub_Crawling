@@ -37,8 +37,19 @@ dependencies {
 
     // selenium
     implementation 'org.seleniumhq.selenium:selenium-java:4.9.1'
+
+    // mysql
+    runtimeOnly 'com.mysql:mysql-connector-j'
+
+    // jasypt
+    implementation 'com.github.ulisesbocchio:jasypt-spring-boot-starter:3.0.4'
 }
 
 tasks.named('test') {
     useJUnitPlatform()
+    systemProperty "jasypt.encryptor.password", project.getProperty("jasypt.encryptor.password")
+}
+
+jar{
+    enabled = false
 }
