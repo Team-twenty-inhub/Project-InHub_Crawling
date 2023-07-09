@@ -20,6 +20,9 @@ jobs:
           java-version: 17
           distribution: temurin
 
+      - name: 권한 부여 # (0)
+        run: chmod +x gradlew
+
       - name: 스프링부트 애플리케이션 빌드 # (1)
         run: ./gradlew build -Pjasypt.encryptor.password=${{secrets.JASYPT_ENCRYPTOR_PASSWORD}}
 
