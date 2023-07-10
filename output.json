@@ -1,8 +1,16 @@
 [
   {
+    "company": "㈜캐럿글로벌",
+    "detail": "웹개발자(PHP/JAVA/프론트) 경력직 모집 (강남)",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42331378?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d1",
+    "experience": "경력2년↑",
+    "location": "서울 서초구 외",
+    "apply": "즉시지원"
+  },
+  {
     "company": "한국직업전문학교",
     "detail": "[국비무료IT취업교육] AI교육/자바(JAVA)웹/앱개발/프론트엔드/백앤드/풀스택/빅데이터/IT전문교육 취업연계시스템 교육",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41987464?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d1",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41987464?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d2",
     "experience": "신입·경력",
     "location": "서울 구로구 외",
     "apply": "즉시지원"
@@ -10,15 +18,15 @@
   {
     "company": "한국ICT인재개발원",
     "detail": "[국비무료IT취업교육]JAVA웹앱/프론트엔드/백엔드/풀스택/빅데이터/인공지능 외 자바개발자취업교육과정/준비된 인재로 취업하기/SW융복합 인재양성 /수료전부터 취업연계매칭시스템",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42304560?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d2",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42304560?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d3",
     "experience": "신입·경력",
     "location": "서울 마포구 외",
     "apply": "즉시지원"
   },
   {
     "company": "㈜티사이언티픽",
-    "detail": "[티사이언티픽] JAVA 개발자, 보안 시스템 엔지니어, 인사 담당 등 각 부문 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42279042?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d3",
+    "detail": "[티사이언티픽] JAVA 개발자, 보안 시스템 엔지니어, 인사,경영기획 등 각 부문 채용",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42279042?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d4",
     "experience": "경력무관",
     "location": "서울 동작구 외",
     "apply": "즉시지원"
@@ -26,7 +34,7 @@
   {
     "company": "랜드소프트㈜",
     "detail": "웹 디자이너/JAVA Developer(SM) 채용 공고",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42192092?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d4",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42192092?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d5",
     "experience": "경력3년↑",
     "location": "서울 서초구",
     "apply": "즉시지원"
@@ -34,23 +42,95 @@
   {
     "company": "휴먼교육센터",
     "detail": "[전액무료] IT취업 자바/파이썬/인공지능/빅데이터 교육생 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42299269?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d5",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42299269?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d6",
     "experience": "신입·경력",
     "location": "서울 영등포구 외",
     "apply": "즉시지원"
   },
   {
-    "company": "㈜유비퍼스트대원",
-    "detail": "연구소 JAVA WEB 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41820532?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d6",
-    "experience": "경력3년↑",
-    "location": "서울 금천구 외",
+    "company": "다니다㈜",
+    "detail": "[디자이너/마케터/임원비서/프로그래머/경영지원] 정규직/신입/경력 인재채용",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42195044?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d7",
+    "experience": "신입·경력",
+    "location": "서울 강남구",
+    "apply": "즉시지원"
+  },
+  {
+    "company": "㈜컴투스",
+    "detail": "[컴투스플랫폼] 웹프로그래머 (경력)",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42334712?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d8",
+    "experience": "경력",
+    "location": "서울 금천구",
+    "apply": "홈페이지 지원"
+  },
+  {
+    "company": "㈜엔픽셀",
+    "detail": "[METAPIXEL] 게임 플랫폼 프로그래머 모집",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42319596?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d9",
+    "experience": "경력",
+    "location": "서울 강남구",
+    "apply": "홈페이지 지원"
+  },
+  {
+    "company": "㈜이컴라인",
+    "detail": "6.[광흥창] 금융, 은행, 차세대, 외환 업무, 해외법인, 자바, java",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42319288?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d10",
+    "experience": "경력10년↑",
+    "location": "서울 마포구",
     "apply": "즉시지원"
   },
   {
     "company": "㈜엔픽셀",
+    "detail": "[그랑사가] 엔진 프로그래머 모집",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42318628?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d11",
+    "experience": "신입·경력",
+    "location": "서울 강남구",
+    "apply": "홈페이지 지원"
+  },
+  {
+    "company": "이컴라인",
+    "detail": "1.[여의도]Java, Spring, Hone Framework, XPlatform, JavaScript, 보험, 금융, 운영, 유지보수, sm, 장기보험, 자바스크립트, 엑스플랫폼, , 스프링, 전자정부프레임웍, 전자정부프레임워크",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42316054?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d12",
+    "experience": "경력6년↑",
+    "location": "서울 영등포구",
+    "apply": "즉시지원"
+  },
+  {
+    "company": "(주)이컴라인",
+    "detail": "2.[여의도] 보험, 금융, 중급, 운영, 자바, 엑스플랫폼, 스프링, 전자정부f/w, java, wping, xplatform, Restful, SOAP, Git, MS-SQL",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42315679?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d13",
+    "experience": "경력6년↑",
+    "location": "서울 영등포구",
+    "apply": "즉시지원"
+  },
+  {
+    "company": "㈜엔씨소프트",
+    "detail": "[엔씨소프트][AION2] 서버 프로그래머 모집",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42314988?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d14",
+    "experience": "경력5년↑",
+    "location": "경기 성남시",
+    "apply": "홈페이지 지원"
+  },
+  {
+    "company": "㈜엔씨소프트",
+    "detail": "[엔씨소프트][PROJECT G] 서버 프로그래머 모집",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42314498?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d15",
+    "experience": "경력3년↑",
+    "location": "경기 성남시",
+    "apply": "홈페이지 지원"
+  },
+  {
+    "company": "㈜엔씨소프트",
+    "detail": "[엔씨소프트][PROJECT G] 엔진 프로그래머 모집",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42314392?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d16",
+    "experience": "경력3년↑",
+    "location": "경기 성남시",
+    "apply": "홈페이지 지원"
+  },
+  {
+    "company": "㈜엔픽셀",
     "detail": "[크로노오디세이] 엔진 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42300130?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d7",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42300130?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d17",
     "experience": "신입·경력",
     "location": "서울 강남구",
     "apply": "홈페이지 지원"
@@ -58,7 +138,7 @@
   {
     "company": "현대오토에버㈜",
     "detail": "[의왕] PLM 시스템 개발/운영 경력채용(JAVA)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42298449?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d8",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42298449?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d18",
     "experience": "경력5년↑",
     "location": "경기 의왕시 외",
     "apply": "홈페이지 지원"
@@ -66,7 +146,7 @@
   {
     "company": "㈜엔씨소프트",
     "detail": "[엔씨소프트][리니지W] 클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42292706?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d9",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42292706?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d19",
     "experience": "경력3년↑",
     "location": "경기 성남시",
     "apply": "홈페이지 지원"
@@ -74,729 +154,9 @@
   {
     "company": "㈜코비젼",
     "detail": "각부문 경력 채용 - JAVA/.NET/PM/영업",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42216978?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d10",
+    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42216978?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d20",
     "experience": "경력7년↑",
     "location": "서울 강서구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][신규프로젝트] PC/Mobile MMORPG 클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42281383?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d11",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][신규프로젝트] PC/Mobile MMORPG AI 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42281341?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d12",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][리니지W] 엔진 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42281223?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d13",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][AION2] 클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42281181?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d14",
-    "experience": "경력5년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜이컴라인",
-    "detail": "7.[여의도] 증권, 금융, 자바, java",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42277589?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d15",
-    "experience": "경력3년↑",
-    "location": "서울 영등포구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][리니지2M] 클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42261527?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d16",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][Blade\u0026Soul2] 컨텐츠 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42254158?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d17",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "위메이드",
-    "detail": "[디스민즈워] 서버 프로그래머",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42247134?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d18",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜네오플",
-    "detail": "[네오플] 프로그래머/엔지니어 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42242676?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d19",
-    "experience": "신입·경력",
-    "location": "제주 제주시 외",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜중고나라",
-    "detail": "[New 중고나라] 백엔드(JAVA) 개발자 채용 (3-7년)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42238453?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d20",
-    "experience": "경력3년↑",
-    "location": "서울 서초구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "(주)윈스",
-    "detail": "[상시] 2023 전문연구요원 채용(병역특례)-JAVA 개발",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42238207?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d21",
-    "experience": "신입",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "(주)윈스",
-    "detail": "2023년 상시채용(신입)-JAVA 개발",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42238076?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d22",
-    "experience": "신입",
-    "location": "전국",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][Blade\u0026Soul] 클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42223951?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d23",
-    "experience": "경력5년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜코비젼",
-    "detail": "개발직 경력 채용 - JAVA개발자",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42217041?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d24",
-    "experience": "경력3년↑",
-    "location": "서울 강서구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][LLL] 서버 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42170379?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d25",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "현대오토에버㈜",
-    "detail": "시스템 개발/운영 부문 경력채용(Java/Spring)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42165162?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d26",
-    "experience": "경력5년↑",
-    "location": "서울 강남구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜네오플",
-    "detail": "[서울지사][던파모바일2D] 라이브클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42107954?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d27",
-    "experience": "신입·경력",
-    "location": "서울 강남구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "알앤비소프트",
-    "detail": "23년도 알앤비소프트 JAVA/Web 개발자 신입사원 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42116868?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d28",
-    "experience": "신입",
-    "location": "경기 성남시 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[인텔리전스랩스] 이벤트플랫폼팀 백엔드 개발자 (Java)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42116228?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d29",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[인텔리전스랩스] 거래플랫폼팀 백엔드 개발자 (Java)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42048960?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d30",
-    "experience": "경력4년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔씨소프트",
-    "detail": "[엔씨소프트][AION2] 엔진 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42020407?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d31",
-    "experience": "경력5년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[인텔리전스랩스] 마케팅컨텐츠개발팀 백엔드 개발자 (Java)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41864825?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d32",
-    "experience": "경력",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[테일즈위버:세컨드런] 서버 프로그래머",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41733691?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d33",
-    "experience": "경력",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[인텔리전스랩스] 데이터 플랫폼 백엔드 개발자(Java/Node.js)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41711538?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d34",
-    "experience": "경력무관",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜컴투스",
-    "detail": "[컴투스] 신작 골프 게임 클라이언트 프로그래머 (경력)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42309520?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d35",
-    "experience": "경력1년↑",
-    "location": "서울 금천구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜웅진",
-    "detail": "(주)웅진 JAVA기반 렌탈 솔루션 운영/개발 경력 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42301016?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d36",
-    "experience": "경력3년↑",
-    "location": "서울 중구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜엔픽셀",
-    "detail": "[크로노오디세이] 서버 컨텐츠 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42300299?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d37",
-    "experience": "신입·경력",
-    "location": "서울 강남구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔픽셀",
-    "detail": "[크로노오디세이] 서버 전투/ AI 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42300256?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d38",
-    "experience": "신입·경력",
-    "location": "서울 강남구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔픽셀",
-    "detail": "[크로노오디세이] 클라이언트(전투) 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42300199?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d39",
-    "experience": "경력",
-    "location": "서울 강남구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜엔픽셀",
-    "detail": "[신규프로젝트] 클라이언트 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42299409?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d40",
-    "experience": "경력",
-    "location": "서울 강남구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜웅진",
-    "detail": "(주)웅진 JAVA기반 플랫폼 서비스 개발 경력사원 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42299301?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d41",
-    "experience": "경력3년↑",
-    "location": "서울 중구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜아이투맥스",
-    "detail": "[Salesforce/업계 1위] Java 개발자 경력직 채용(5년 이상)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42299175?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d42",
-    "experience": "경력5년↑",
-    "location": "서울 마포구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜세정아이앤씨",
-    "detail": "[세정아이앤씨] Java 개발자 경력사원 채용(부산)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42299103?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d43",
-    "experience": "경력3년↑",
-    "location": "부산 금정구 외",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜웅진",
-    "detail": "(주)웅진 JAVA기반 솔루션(모빌리티) 설계/개발 경력직 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42296263?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d44",
-    "experience": "경력10년↑",
-    "location": "서울 중구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "전국렌터카공제조합",
-    "detail": "[JAVA/JSP/SPRING] IT 개발 신입/경력 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42289889?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d45",
-    "experience": "신입·경력1년↑",
-    "location": "서울 광진구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "슈어소프트테크㈜",
-    "detail": "검증자동화팀 Java 개발자 (중급) 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42284523?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d46",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜아이투맥스",
-    "detail": "[부산]Java 개발자(경력) 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42263089?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d47",
-    "experience": "경력2년↑",
-    "location": "부산 해운대구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "슈어소프트테크㈜",
-    "detail": "정적분석기술팀 시스템프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42284616?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d48",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "슈어소프트테크㈜",
-    "detail": "플랫폼팀 Java 개발자(중급) 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42284603?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d49",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "슈어소프트테크㈜",
-    "detail": "제어안전성능팀 Java 개발자(중,고급) 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42284544?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d50",
-    "experience": "경력4년↑",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "엔에이치엔㈜",
-    "detail": "[NHN PAYCO] JAVA 서버 개발",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42247517?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d51",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜네오플러스",
-    "detail": "[정규직] JAVA개발 경력사원 채용 (2년이상)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42282896?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d52",
-    "experience": "경력2년↑",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜중고나라",
-    "detail": "[New 중고나라] 백엔드(JAVA) 신입 개발자 채용 (신입)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42278672?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d53",
-    "experience": "신입",
-    "location": "서울 서초구 외",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "(주)이컴라인",
-    "detail": "2.[의왕] java, spring, AOS kotlin, 아이폰, 자바, 스프링, 전자정부f/w, 전자정부프레임웍, 전자정부프레임워크, 모바일, 안드로이드, 모바일인증, android, 금융",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42276712?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d54",
-    "experience": "경력3년↑",
-    "location": "경기 의왕시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "드림씨아이에스",
-    "detail": "IT JAVA 개발자 경력 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42276037?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d55",
-    "experience": "경력",
-    "location": "서울 종로구",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "엔에이치엔케이씨피㈜",
-    "detail": "NHN KCP JAVA 백엔드 웹개발자 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42269626?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d56",
-    "experience": "경력4년↑",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜폴리큐브",
-    "detail": "서버 및 앱 클라이언트 프로그래머를 모십니다.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42267642?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d57",
-    "experience": "경력무관",
-    "location": "서울 강남구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜폴리큐브",
-    "detail": "병역특례(보충역, 현역, 전직 산업기능요원)로 프로그래머를 모십니다.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42267641?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d58",
-    "experience": "경력무관",
-    "location": "서울 강남구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜에임메드",
-    "detail": "Java/Node.js 백엔드개발 경력직 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42262610?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d59",
-    "experience": "경력3년↑",
-    "location": "서울 강남구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜해커스어학원",
-    "detail": "[신입/경력] PHP 프로그래머/앱 개발자(iOS)/웹퍼블리셔 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42261889?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d60",
-    "experience": "신입·경력",
-    "location": "서울 서초구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "현대트랜시스",
-    "detail": "조지아법인 품질 부문 모집(현지채용)-품질관리(CMM프로그래머)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42261078?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d61",
-    "experience": "경력",
-    "location": "미국 조지아주",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜핑거",
-    "detail": "제1금융권. 스마트뱅킹 유지보수 JAVA 개발자 모집(의왕시) (정규직 및 계약직)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42259995?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d62",
-    "experience": "경력5년↑",
-    "location": "서울 영등포구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜드래곤플라이",
-    "detail": "[드래곤플라이] 스페셜포스 서버 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42255493?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d63",
-    "experience": "신입·경력2년↑",
-    "location": "서울 서초구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "위메이드",
-    "detail": "[디스민즈워] 클라이언트 프로그래머",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42247045?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d64",
-    "experience": "경력5년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "리치앤타임㈜",
-    "detail": "[아프리소]JAVA 신입/경력 개발자 및 PM 모십니다",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42245868?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d65",
-    "experience": "경력5년↑",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[인텔리전스랩스] 유저프로파일팀 백엔드 개발자 (Java)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42240666?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d66",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜우대칼스",
-    "detail": "[전자정부시스템] JAVA 기반 웹시스템 개발자 채용 (신입)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42235063?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d67",
-    "experience": "신입",
-    "location": "서울 서초구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "경향신문",
-    "detail": "경향신문 PHP웹프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42234663?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d68",
-    "experience": "신입·경력2년↑",
-    "location": "서울 중구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜아이비에스",
-    "detail": "[대전] 웹(JAVA) 개발자를 모집합니다.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42231550?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d69",
-    "experience": "경력무관",
-    "location": "대전 유성구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜아이비에스",
-    "detail": "[구미] JAVA 개발자를 채용합니다.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42218753?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d70",
-    "experience": "경력1년↑",
-    "location": "경북 구미시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "리치앤타임㈜",
-    "detail": "[ MES ]JAVA개발자 인재를 모십니다",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42211772?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d71",
-    "experience": "경력4년↑",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜안랩",
-    "detail": "[경력] Java 백앤드(서버) 개발자 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42182262?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d72",
-    "experience": "경력3년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "(주)에이치코비",
-    "detail": "웹 프로그래머(JAVA) 정규 직원 (신입/경력) 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42204838?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d73",
-    "experience": "신입·경력5년↑",
-    "location": "경기 안양시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "코아정보기술㈜",
-    "detail": "응용S/W 프로그래머 (경력자)모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42200739?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d74",
-    "experience": "경력5년↑",
-    "location": "경남 창원시 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜미디어솔루션",
-    "detail": "(응용프로그래머)산업기능요원 보충역 대상자 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42199578?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d75",
-    "experience": "신입·경력",
-    "location": "서울 마포구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜에임메드",
-    "detail": "Java/Node.js 백엔드 개발자 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42199182?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d76",
-    "experience": "경력5년↑",
-    "location": "서울 강남구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "오토플러스㈜",
-    "detail": "오토플러스(주) IT개발팀 JAVA 개발자 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42195809?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d77",
-    "experience": "경력4년↑",
-    "location": "서울 영등포구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜아이투맥스",
-    "detail": "[강소기업/부산] Java 개발자(경력) 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42195082?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d78",
-    "experience": "경력2년↑",
-    "location": "부산 해운대구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜에치에프알",
-    "detail": "[HFR] Java Backend Server 개발자 (경력직)를 모집합니다",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42190311?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d79",
-    "experience": "경력12년↑",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜유비앤티스랩",
-    "detail": "통합인증 보안솔루션부문 신입 자바개발자 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42182350?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d80",
-    "experience": "신입",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜에듀윌",
-    "detail": "[강사구인]스마트팩토리, 챗봇개발 (C#, JAVA, 파이썬)훈련교사 모십니다.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42182100?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d81",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[마비노기] 클라이언트 프로그래머",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42171515?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d82",
-    "experience": "경력2년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜디지캡",
-    "detail": "㈜디지캡 [JAVA Spring Framework 개발자] 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42163989?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d83",
-    "experience": "신입·경력",
-    "location": "서울 강서구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜ 호디",
-    "detail": "웹 개발자[JAVA/Springboot] 채용 (신입, 경력, 현역:TO1)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42146176?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d84",
-    "experience": "경력무관",
-    "location": "서울 강서구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜엑스골프",
-    "detail": "C/C++ 프로그래머 개발자 상시 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42120018?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d85",
-    "experience": "경력무관",
-    "location": "대전 유성구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜천재교육",
-    "detail": "천재교육 서비스개발팀 백엔드(JAVA,Node.js)/프론트엔드(React,JSP) 경력자 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42106665?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d86",
-    "experience": "경력2년↑",
-    "location": "서울 금천구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜지넷시스템",
-    "detail": "[신입] 임베디드 리눅스 응용프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42101573?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d87",
-    "experience": "신입",
-    "location": "서울 금천구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "엔픽셀",
-    "detail": "[엔픽셀] 신규프로젝트 서버 프로그래머 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42088044?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d88",
-    "experience": "경력무관",
-    "location": "서울 강남구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜한드림넷",
-    "detail": "네트워크, 보안 프로그래머 채용",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42079934?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d89",
-    "experience": "신입·경력",
-    "location": "경기 의왕시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "한국직업전문학교",
-    "detail": "빅데이터 플랫폼 응용 SW개발자 양성 과정 (Java, Python) 교육과정 강사모집.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42078198?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d90",
-    "experience": "경력2년↑",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "엠아이큐브솔루션㈜",
-    "detail": "스마트팩토리 Java 개발자 모집 (천안 근무)",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42072231?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d91",
-    "experience": "경력2년↑",
-    "location": "서울 서초구 외",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜픽소니어",
-    "detail": "웹 개발(Java, Javascript, HTML5)-서울",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42066416?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d92",
-    "experience": "경력3년↑",
-    "location": "서울 금천구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜트리포스",
-    "detail": "[경력] Java기반 웹/앱 개발자를 모십니다.",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42063027?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d93",
-    "experience": "신입",
-    "location": "경기 성남시",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜피엠그로우",
-    "detail": "EV(전기차)플랫폼 Java 개발자 수시 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42006343?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d94",
-    "experience": "경력2년↑",
-    "location": "서울 서초구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜솔로몬엠",
-    "detail": "[솔로몬엠] 모빌리티 플랫폼 운영 중급, 고급 개발자(JAVA) 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/42014570?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d95",
-    "experience": "경력3년↑",
-    "location": "서울 영등포구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "(재)여성기업종합지원센터",
-    "detail": "[주식회사 아트앤메타] 유니티 클라이언트 프로그래머 모집 (부분재택, 근무일수, 시간 협의가능 )",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41987064?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d96",
-    "experience": "신입·경력1년↑",
-    "location": "충북 청주시 외",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "유비벨록스㈜",
-    "detail": "Java/Spring 기반 솔루션 개발 및 커스터마이징 담당자 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41989488?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d97",
-    "experience": "경력3년↑",
-    "location": "서울 구로구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜넥슨",
-    "detail": "[워헤이븐] 서버 프로그래머",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41976711?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d98",
-    "experience": "경력5년↑",
-    "location": "경기 성남시",
-    "apply": "홈페이지 지원"
-  },
-  {
-    "company": "㈜세일코리아넷",
-    "detail": "[정규직] 웹개발자(PHP, JAVA) 경력직 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41973534?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d99",
-    "experience": "신입·경력1년↑",
-    "location": "서울 영등포구",
-    "apply": "즉시지원"
-  },
-  {
-    "company": "㈜유라클",
-    "detail": "[국내 1위 모바일 솔루션] 유라클 Java 개발자 경력직 모집",
-    "jobUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/41957129?Oem_Code\u003dC1\u0026logpath\u003d1\u0026stext\u003d%EC%9E%90%EB%B0%94\u0026listno\u003d100",
-    "experience": "경력1년↑",
-    "location": "서울 강남구",
     "apply": "즉시지원"
   }
 ]
