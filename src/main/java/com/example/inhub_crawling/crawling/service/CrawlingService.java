@@ -9,7 +9,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -21,12 +20,14 @@ import java.util.stream.Collectors;
 @RequiredArgsConstructor
 public class CrawlingService {
     private final CrawledDataRepository crawledDataRepository;
-//    @Value("${custom.}")
+
+    //    @Value("${custom.}")
 //    private int page
     @Transactional
     public List<CrawledJobDto> crawlJobs() {
         String keyword = "자바";
-        int pageNum = 1;
+        int startPage = 1;
+        int endPage = 5;
 
         ChromeOptions options = new ChromeOptions();
 //        options.addArguments("--headless"); // 브라우저 창을 표시하지 않고 백그라운드에서 실행
@@ -35,10 +36,10 @@ public class CrawlingService {
 
         List<CrawledJobDto> crawledJobs = new ArrayList<>();
 
+        for (int pageNum = startPage; pageNum <= endPage; pageNum++) {
+            String url = "https://www.jobkorea.co.kr/Search/?stext=" + keyword + "&tabType=recruit&Page_No=" + pageNum;
 
-        String url = "https://www.jobkorea.co.kr/Search/?stext=" + keyword + "&tabType=recruit&Page_No=" + pageNum;
-
-        driver.get(url);
+            driver.get(url);
 
             try {
                 Thread.sleep(2000);
@@ -61,8 +62,12 @@ public class CrawlingService {
 
                 CrawledJob crawledJob = new CrawledJob(company, detail, jobUrl, experience, location, apply);
                 CrawledJob saved = crawledDataRepository.save(crawledJob);
+
+                crawledJobs.add(new CrawledJobDto(company, detail, jobUrl, experience, location, apply));
+
                 System.out.println(">>>>>>>>>>>>>>>>" + saved.getJobUrl());
             }
+        }
 
         driver.quit();
 
@@ -71,6 +76,8 @@ public class CrawlingService {
                 .map(CrawledJob::toSaveEntity)
                 .collect(Collectors.toList());
         crawledDataRepository.saveAll(entities);
+
+        System.out.println(entities);
 
         return crawledJobs;
     }
