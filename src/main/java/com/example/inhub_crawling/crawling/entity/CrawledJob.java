@@ -1,6 +1,7 @@
 package com.example.inhub_crawling.crawling.entity;
 
 import com.example.inhub_crawling.crawling.dto.CrawledJobDto;
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
@@ -8,6 +9,8 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+
+import java.time.LocalDateTime;
 
 import static jakarta.persistence.GenerationType.IDENTITY;
 
@@ -28,6 +31,9 @@ public class CrawledJob {
     private String experience;
     private String location;
     private String apply;
+
+    @Column(columnDefinition = "TIMESTAMP DEFAULT CURRENT_TIMESTAMP")
+    private LocalDateTime createdAt;
 
     public static CrawledJob toSaveEntity(CrawledJobDto crawledJobDto) {
         CrawledJob build = CrawledJob.builder()

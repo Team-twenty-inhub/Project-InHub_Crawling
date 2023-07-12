@@ -9,11 +9,16 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 @Service
@@ -21,16 +26,14 @@ import java.util.stream.Collectors;
 public class CrawlingService {
     private final CrawledDataRepository crawledDataRepository;
 
-    //    @Value("${custom.}")
-//    private int page
     @Transactional
-    public List<CrawledJobDto> crawlJobs() {
+    public List<CrawledJobDto> crawlAndSaveJobs() {
         String keyword = "자바";
         int startPage = 1;
-        int endPage = 5;
+        int endPage = 3;
 
         ChromeOptions options = new ChromeOptions();
-//        options.addArguments("--headless"); // 브라우저 창을 표시하지 않고 백그라운드에서 실행
+        options.addArguments("--headless"); // 브라우저 창을 표시하지 않고 백그라운드에서 실행
 
         WebDriver driver = new ChromeDriver(options);
 
@@ -80,5 +83,29 @@ public class CrawlingService {
         System.out.println(entities);
 
         return crawledJobs;
+    }
+    @Transactional
+    public void removeDuplicateJobs() {
+        List<CrawledJob> existingJobs = crawledDataRepository.findAll();
+        Set<String> uniqueUrls = new HashSet<>();
+        List<CrawledJob> deduplicatedJobs = new ArrayList<>();
+
+        for (CrawledJob job : existingJobs) {
+            if (uniqueUrls.add(job.getJobUrl())) {
+                deduplicatedJobs.add(job);
+            }
+        }
+
+        List<CrawledJob> duplicatedJobs = new ArrayList<>(existingJobs);
+        duplicatedJobs.removeAll(deduplicatedJobs);
+
+        crawledDataRepository.deleteAll(duplicatedJobs);
+    }
+
+    @Transactional
+    public void removeOutdatedJobs() {
+        LocalDateTime fourteenDaysAgo = LocalDateTime.now().minusDays(14);
+        List<CrawledJob> outdatedJobs = crawledDataRepository.findByCreatedAtBefore(fourteenDaysAgo);
+        crawledDataRepository.deleteAll(outdatedJobs);
     }
 }
