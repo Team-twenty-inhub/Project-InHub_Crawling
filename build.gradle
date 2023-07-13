@@ -47,9 +47,6 @@ dependencies {
 
     // h2
     runtimeOnly 'com.h2database:h2' // h2-in memory
-
-    // webClient
-    implementation 'org.springframework.boot:spring-boot-starter-webflux'
 }
 
 tasks.named('test') {
