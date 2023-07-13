@@ -1,7 +1,7 @@
 spring:
   config:
     activate:
-      on-profile: prod
+      on-profile: dev
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -10,4 +10,4 @@ spring:
     password: ENC(7hJvEN7wbKPF/+tceMRo/R0EuOcIjlOp)
 
 server:
-  port: 8080
+  port: 8081

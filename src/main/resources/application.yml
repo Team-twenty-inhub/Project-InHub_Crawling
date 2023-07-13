@@ -15,7 +15,7 @@ spring:
 
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
     properties:
       hibernate:
         show_sql: true
@@ -26,9 +26,3 @@ spring:
 jasypt:
   encryptor:
     bean: jasyptStringEncryptor
-
-server:
-  port: 8081
-
-custom:
-  time:

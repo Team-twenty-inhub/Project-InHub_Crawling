@@ -16,7 +16,13 @@ import java.util.List;
 @RequestMapping("/crawling")
 @RequiredArgsConstructor
 public class CrawlingController {
+    private final CrawlingService crawlingService;
     private final CrawledDataRepository crawledDataRepository;
+
+    @GetMapping("/saveTest")
+    public List<CrawledJobDto> save() {
+        return crawlingService.crawlAndSaveJobs();
+    }
 
     @GetMapping("/job-infos")
     public List<CrawledJobDto> getCrawledJobs() {
