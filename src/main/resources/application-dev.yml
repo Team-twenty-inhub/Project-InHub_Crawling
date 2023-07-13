@@ -2,12 +2,3 @@ spring:
   config:
     activate:
       on-profile: dev
-
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mariadb://127.0.0.1:3306/inhub_crawling?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
-    username: ENC(HIzHQ75JvxOgtkxajoqlEA==)
-    password: ENC(37glGXQV2EiQ926e1Na6TVNN64bRwxlT)
-
-server:
-  port: 8081

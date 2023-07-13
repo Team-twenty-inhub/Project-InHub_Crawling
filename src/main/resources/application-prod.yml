@@ -8,6 +8,3 @@ spring:
     url: jdbc:mysql://database-1.cwysozrbokkx.ap-northeast-2.rds.amazonaws.com:3306/inhub?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
     username: ENC(xn+tHgWjvJDwAM7/Wmdj2U8YsXYFkLqU)
     password: ENC(7hJvEN7wbKPF/+tceMRo/R0EuOcIjlOp)
-
-server:
-  port: 8080
