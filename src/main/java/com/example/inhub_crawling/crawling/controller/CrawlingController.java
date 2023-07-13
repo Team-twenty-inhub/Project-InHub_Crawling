@@ -20,8 +20,12 @@ public class CrawlingController {
     private final CrawledDataRepository crawledDataRepository;
 
     @GetMapping("/saveTest")
-    public List<CrawledJobDto> save() {
-        return crawlingService.crawlAndSaveJobs();
+    public String save() {
+        crawlingService.removeOutdatedJobs();  // 14일 이전 데이터 삭제
+        crawlingService.crawlAndSaveJobs();    // 크롤링
+        crawlingService.removeDuplicateJobs(); // 중복 데이터 제거
+
+        return "성공";
     }
 
     @GetMapping("/job-infos")

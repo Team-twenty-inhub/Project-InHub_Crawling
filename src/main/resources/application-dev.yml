@@ -5,9 +5,9 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://database-1.cwysozrbokkx.ap-northeast-2.rds.amazonaws.com:3306/inhub?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
-    username: ENC(xn+tHgWjvJDwAM7/Wmdj2U8YsXYFkLqU)
-    password: ENC(7hJvEN7wbKPF/+tceMRo/R0EuOcIjlOp)
+    url: jdbc:mariadb://127.0.0.1:3306/inhub_crawling?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
+    username: ENC(HIzHQ75JvxOgtkxajoqlEA==)
+    password: ENC(37glGXQV2EiQ926e1Na6TVNN64bRwxlT)
 
 server:
   port: 8081
